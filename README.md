@@ -1,3 +1,4 @@
+## <p align="center"><img width="250" src="sony-logo-3068.png"/></p>
 ##### Latest Version : ./v5
 ### CLI Program Syntax <br>
 ```
