@@ -1,5 +1,5 @@
 ## <p align="center"><img width="250" src="sony-logo-3068.png"/></p>
-##### Latest Version : ./v5
+##### Latest Version : ./v5 <p align="right">Docs: https://pro-bravia.sony.net/develop/</p>
 ### CLI Program Syntax <br>
 ```
 ./vX [IP-Address] [command]
